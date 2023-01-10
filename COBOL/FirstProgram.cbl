@@ -8,7 +8,7 @@
        linkage section.
 
        procedure division.
-           
+           display "message"
            goback.
 
        end program FirstProgram.
