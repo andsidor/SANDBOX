@@ -1,17 +1,21 @@
-       program-id. basic1.
+       program-id. base.
 
        environment division.
        configuration section.
 
        data division.
+
        working-storage section.
+
        linkage section.
 
        procedure division.
-           
 
 
-           display "TEST"
-           goback.
 
-       end program basic1.
+           display "ddfdf".
+
+           goback .
+
+
+       end program base.
