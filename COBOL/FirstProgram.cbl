@@ -13,7 +13,7 @@
        procedure division.
            display "message2dfdfgdfg"
            set X to 10.
-           set y to 25.e
+           set y to 25.
            add X Y GIVING Z
            display "X"X
            display "Y"Y
