@@ -4,6 +4,15 @@
     // Aby uzyskać więcej informacji, odwiedź stronę: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        {
+            "type": "cobol",
+            "request": "launch",
+            "name": "COBOL (native): 64-bit",
+            "program": "${workspaceFolder}/<insert-program-name-here>",
+            "cwd": "${workspaceFolder}",
+            "is64Bit": true,
+            "stopOnEntry": true
+        },
     {
         "type": "COBOL",
         "request": "launch",
