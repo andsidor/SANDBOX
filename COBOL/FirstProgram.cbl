@@ -16,7 +16,7 @@
            set y to 25.e
            add X Y GIVING Z
            display "X"X
-           display "Y"Y]
+           display "Y"Y
            DISPLAY "X + Y = "Z
 
 
