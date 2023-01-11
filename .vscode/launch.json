@@ -4,6 +4,13 @@
     // Aby uzyskać więcej informacji, odwiedź stronę: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+    {
+        "type": "COBOL",
+        "request": "launch",
+        "name": "COBOL Debugger",
+        "commandLine": "${command:commandLineBuild}",
+        "stopOnEntry": true
+    }
 
       
     ]
